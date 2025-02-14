@@ -1,6 +1,6 @@
 ﻿« La préhistoire
 -4MA : Les australopithèques
--3.2 MA : Lucy – Australopithèque découverte en Ethiopie
+-3.2 MA : Lucy – Australopithèque découverte en Ethiopie - test conflit L
 -2.5MA : Homo habilis
 -1.7MA : Homo erectus
 -800 000: La maîtrise du feu
